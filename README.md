@@ -20,3 +20,4 @@ Step 2: Check That the Container Is Running
 
 ### Task 4: Inspect and Stop the Container
 ![image](https://github.com/user-attachments/assets/484c4d13-9f35-458b-9d94-6df0609fd9ee)
+![image](https://github.com/user-attachments/assets/1241e3a6-69b3-4946-b7e2-0cbeb89c3e05)
